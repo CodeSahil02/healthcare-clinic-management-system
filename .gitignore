@@ -1,0 +1,24 @@
+# NetBeans private settings
+nbproject/private/
+
+# Build and distribution files
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Compiled Java files
+*.class
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
